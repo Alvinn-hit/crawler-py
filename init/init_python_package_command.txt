@@ -1,0 +1,18 @@
+本系统是用python3语言编写。
+if you system have python2.7 then use pip3
+
+
+sudo pip install cx_Oracle
+sudo pip install pymysql
+sudo pip install pdfminer3k
+sudo pip install urllib3
+sudo pip install beautifulsoup4
+
+
+使用
+    urllib3 抓取页面
+    beautifulsoup4 解析html
+    pdfminer3k 解析pdf
+    logging 记录日志
+    configparser 读取配置文件
+    cx_Oracle连接数据库

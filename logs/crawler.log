@@ -1,0 +1,1200 @@
+
+
+[2017-12-21 15:04:41,018] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:04:42,066] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:04:45,110] INFO in crawler_crude_prices_init:76: 平均值78.402010/01/01
+
+
+[2017-12-21 15:04:45,160] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:04:45,786] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:04:48,831] INFO in crawler_crude_prices_init:76: 平均值76.452010/02/01
+
+
+[2017-12-21 15:04:48,977] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2010-02', 'RANGE': '全部航线', 'VALUE': 76.45}
+
+
+[2017-12-21 15:04:48,978] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:04:49,650] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:04:52,690] INFO in crawler_crude_prices_init:76: 平均值81.292010/03/01
+
+
+[2017-12-21 15:04:52,835] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2010-03', 'RANGE': '全部航线', 'VALUE': 81.29}
+
+
+[2017-12-21 15:04:52,835] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:04:53,439] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:04:56,480] INFO in crawler_crude_prices_init:76: 平均值84.582010/04/01
+
+
+[2017-12-21 15:04:56,609] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2010-04', 'RANGE': '全部航线', 'VALUE': 84.58}
+
+
+[2017-12-21 15:04:56,610] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:04:57,238] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:04:59,273] INFO in crawler_crude_prices_init:76: 平均值74.122010/05/01
+
+
+[2017-12-21 15:04:59,420] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2010-05', 'RANGE': '全部航线', 'VALUE': 74.12}
+
+
+[2017-12-21 15:04:59,420] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:05:00,021] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:05:02,052] INFO in crawler_crude_prices_init:76: 平均值75.402010/06/01
+
+
+[2017-12-21 15:05:02,187] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2010-06', 'RANGE': '全部航线', 'VALUE': 75.4}
+
+
+[2017-12-21 15:05:02,188] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:05:02,824] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:05:04,857] INFO in crawler_crude_prices_init:76: 平均值76.382010/07/01
+
+
+[2017-12-21 15:05:05,022] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2010-07', 'RANGE': '全部航线', 'VALUE': 76.38}
+
+
+[2017-12-21 15:05:05,023] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:05:07,545] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:05:10,591] INFO in crawler_crude_prices_init:76: 平均值76.672010/08/01
+
+
+[2017-12-21 15:05:10,728] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2010-08', 'RANGE': '全部航线', 'VALUE': 76.67}
+
+
+[2017-12-21 15:05:10,729] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:05:11,426] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:05:14,465] INFO in crawler_crude_prices_init:76: 平均值75.552010/09/01
+
+
+[2017-12-21 15:05:14,610] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2010-09', 'RANGE': '全部航线', 'VALUE': 75.55}
+
+
+[2017-12-21 15:05:14,611] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:05:15,250] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:05:19,294] INFO in crawler_crude_prices_init:76: 平均值81.972010/10/01
+
+
+[2017-12-21 15:05:19,434] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2010-10', 'RANGE': '全部航线', 'VALUE': 81.97}
+
+
+[2017-12-21 15:05:19,435] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:05:20,077] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:05:24,128] INFO in crawler_crude_prices_init:76: 平均值84.312010/11/01
+
+
+[2017-12-21 15:05:24,260] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2010-11', 'RANGE': '全部航线', 'VALUE': 84.31}
+
+
+[2017-12-21 15:05:24,260] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:05:24,867] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:05:28,917] INFO in crawler_crude_prices_init:76: 平均值89.232010/12/01
+
+
+[2017-12-21 15:05:29,123] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2010-12', 'RANGE': '全部航线', 'VALUE': 89.23}
+
+
+[2017-12-21 15:05:29,124] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:05:29,807] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:05:32,844] INFO in crawler_crude_prices_init:76: 平均值89.582011/01/01
+
+
+[2017-12-21 15:05:33,070] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2011-01', 'RANGE': '全部航线', 'VALUE': 89.58}
+
+
+[2017-12-21 15:05:33,071] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:05:33,792] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:05:37,832] INFO in crawler_crude_prices_init:76: 平均值89.742011/02/01
+
+
+[2017-12-21 15:05:37,979] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2011-02', 'RANGE': '全部航线', 'VALUE': 89.74}
+
+
+[2017-12-21 15:05:37,980] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:05:38,641] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:05:42,674] INFO in crawler_crude_prices_init:76: 平均值102.982011/03/01
+
+
+[2017-12-21 15:05:42,830] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2011-03', 'RANGE': '全部航线', 'VALUE': 102.98}
+
+
+[2017-12-21 15:05:42,830] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:05:43,416] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:05:46,439] INFO in crawler_crude_prices_init:76: 平均值110.042011/04/01
+
+
+[2017-12-21 15:05:46,578] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2011-04', 'RANGE': '全部航线', 'VALUE': 110.04}
+
+
+[2017-12-21 15:05:46,578] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:05:47,197] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:05:51,214] INFO in crawler_crude_prices_init:76: 平均值101.362011/05/01
+
+
+[2017-12-21 15:05:51,368] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2011-05', 'RANGE': '全部航线', 'VALUE': 101.36}
+
+
+[2017-12-21 15:05:51,369] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:05:53,002] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:05:56,036] INFO in crawler_crude_prices_init:76: 平均值96.292011/06/01
+
+
+[2017-12-21 15:05:56,163] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2011-06', 'RANGE': '全部航线', 'VALUE': 96.29}
+
+
+[2017-12-21 15:05:56,164] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:05:56,798] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:05:58,837] INFO in crawler_crude_prices_init:76: 平均值97.342011/07/01
+
+
+[2017-12-21 15:05:58,968] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2011-07', 'RANGE': '全部航线', 'VALUE': 97.34}
+
+
+[2017-12-21 15:05:58,969] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:06:00,647] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:06:03,695] INFO in crawler_crude_prices_init:76: 平均值86.342011/08/01
+
+
+[2017-12-21 15:06:03,832] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2011-08', 'RANGE': '全部航线', 'VALUE': 86.34}
+
+
+[2017-12-21 15:06:03,833] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:06:04,443] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:06:06,484] INFO in crawler_crude_prices_init:76: 平均值85.612011/09/01
+
+
+[2017-12-21 15:06:06,612] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2011-09', 'RANGE': '全部航线', 'VALUE': 85.61}
+
+
+[2017-12-21 15:06:06,613] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:06:07,265] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:06:11,303] INFO in crawler_crude_prices_init:76: 平均值86.432011/10/01
+
+
+[2017-12-21 15:06:11,461] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2011-10', 'RANGE': '全部航线', 'VALUE': 86.43}
+
+
+[2017-12-21 15:06:11,462] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:06:12,218] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:06:14,258] INFO in crawler_crude_prices_init:76: 平均值97.162011/11/01
+
+
+[2017-12-21 15:06:14,405] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2011-11', 'RANGE': '全部航线', 'VALUE': 97.16}
+
+
+[2017-12-21 15:06:14,406] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:06:15,055] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:06:18,099] INFO in crawler_crude_prices_init:76: 平均值98.582011/12/01
+
+
+[2017-12-21 15:06:18,380] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2011-12', 'RANGE': '全部航线', 'VALUE': 98.58}
+
+
+[2017-12-21 15:06:18,380] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:06:19,677] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:06:23,693] INFO in crawler_crude_prices_init:76: 平均值100.322012/01/01
+
+
+[2017-12-21 15:06:23,876] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2012-01', 'RANGE': '全部航线', 'VALUE': 100.32}
+
+
+[2017-12-21 15:06:23,877] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:06:26,152] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:06:28,194] INFO in crawler_crude_prices_init:76: 平均值102.262012/02/01
+
+
+[2017-12-21 15:06:28,361] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2012-02', 'RANGE': '全部航线', 'VALUE': 102.26}
+
+
+[2017-12-21 15:06:28,362] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:06:29,039] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:06:33,084] INFO in crawler_crude_prices_init:76: 平均值106.202012/03/01
+
+
+[2017-12-21 15:06:33,232] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2012-03', 'RANGE': '全部航线', 'VALUE': 106.2}
+
+
+[2017-12-21 15:06:33,232] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:06:33,831] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:06:36,873] INFO in crawler_crude_prices_init:76: 平均值103.352012/04/01
+
+
+[2017-12-21 15:06:37,027] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2012-04', 'RANGE': '全部航线', 'VALUE': 103.35}
+
+
+[2017-12-21 15:06:37,028] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:06:37,691] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:06:41,727] INFO in crawler_crude_prices_init:76: 平均值94.722012/05/01
+
+
+[2017-12-21 15:06:41,894] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2012-05', 'RANGE': '全部航线', 'VALUE': 94.72}
+
+
+[2017-12-21 15:06:41,895] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:06:42,573] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:06:46,610] INFO in crawler_crude_prices_init:76: 平均值82.412012/06/01
+
+
+[2017-12-21 15:06:46,752] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2012-06', 'RANGE': '全部航线', 'VALUE': 82.41}
+
+
+[2017-12-21 15:06:46,753] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:06:47,381] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:06:50,426] INFO in crawler_crude_prices_init:76: 平均值87.932012/07/01
+
+
+[2017-12-21 15:06:50,577] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2012-07', 'RANGE': '全部航线', 'VALUE': 87.93}
+
+
+[2017-12-21 15:06:50,577] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:06:51,213] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:06:53,250] INFO in crawler_crude_prices_init:76: 平均值94.162012/08/01
+
+
+[2017-12-21 15:06:53,398] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2012-08', 'RANGE': '全部航线', 'VALUE': 94.16}
+
+
+[2017-12-21 15:06:53,399] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:06:54,033] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:06:58,069] INFO in crawler_crude_prices_init:76: 平均值94.562012/09/01
+
+
+[2017-12-21 15:06:58,219] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2012-09', 'RANGE': '全部航线', 'VALUE': 94.56}
+
+
+[2017-12-21 15:06:58,219] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:06:58,864] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:07:00,903] INFO in crawler_crude_prices_init:76: 平均值89.572012/10/01
+
+
+[2017-12-21 15:07:01,050] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2012-10', 'RANGE': '全部航线', 'VALUE': 89.57}
+
+
+[2017-12-21 15:07:01,051] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:07:01,670] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:07:05,714] INFO in crawler_crude_prices_init:76: 平均值86.732012/11/01
+
+
+[2017-12-21 15:07:05,848] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2012-11', 'RANGE': '全部航线', 'VALUE': 86.73}
+
+
+[2017-12-21 15:07:05,849] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:07:06,513] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:07:08,557] INFO in crawler_crude_prices_init:76: 平均值88.252012/12/01
+
+
+[2017-12-21 15:07:08,699] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2012-12', 'RANGE': '全部航线', 'VALUE': 88.25}
+
+
+[2017-12-21 15:07:08,699] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:07:09,355] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:07:12,413] INFO in crawler_crude_prices_init:76: 平均值94.832013/01/01
+
+
+[2017-12-21 15:07:12,548] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2013-01', 'RANGE': '全部航线', 'VALUE': 94.83}
+
+
+[2017-12-21 15:07:12,549] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:07:13,201] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:07:16,237] INFO in crawler_crude_prices_init:76: 平均值95.322013/02/01
+
+
+[2017-12-21 15:07:16,391] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2013-02', 'RANGE': '全部航线', 'VALUE': 95.32}
+
+
+[2017-12-21 15:07:16,392] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:07:17,047] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:07:19,082] INFO in crawler_crude_prices_init:76: 平均值92.962013/03/01
+
+
+[2017-12-21 15:07:19,214] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2013-03', 'RANGE': '全部航线', 'VALUE': 92.96}
+
+
+[2017-12-21 15:07:19,215] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:07:19,853] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:07:21,895] INFO in crawler_crude_prices_init:76: 平均值92.072013/04/01
+
+
+[2017-12-21 15:07:22,049] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2013-04', 'RANGE': '全部航线', 'VALUE': 92.07}
+
+
+[2017-12-21 15:07:22,050] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:07:22,735] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:07:25,778] INFO in crawler_crude_prices_init:76: 平均值94.762013/05/01
+
+
+[2017-12-21 15:07:26,427] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2013-05', 'RANGE': '全部航线', 'VALUE': 94.76}
+
+
+[2017-12-21 15:07:26,427] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:07:27,066] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:07:30,101] INFO in crawler_crude_prices_init:76: 平均值95.802013/06/01
+
+
+[2017-12-21 15:07:30,260] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2013-06', 'RANGE': '全部航线', 'VALUE': 95.8}
+
+
+[2017-12-21 15:07:30,261] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:07:30,928] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:07:33,968] INFO in crawler_crude_prices_init:76: 平均值104.562013/07/01
+
+
+[2017-12-21 15:07:34,110] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2013-07', 'RANGE': '全部航线', 'VALUE': 104.56}
+
+
+[2017-12-21 15:07:34,110] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:07:34,718] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:07:38,759] INFO in crawler_crude_prices_init:76: 平均值106.542013/08/01
+
+
+[2017-12-21 15:07:38,899] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2013-08', 'RANGE': '全部航线', 'VALUE': 106.54}
+
+
+[2017-12-21 15:07:38,900] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:07:39,540] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:07:43,575] INFO in crawler_crude_prices_init:76: 平均值106.262013/09/01
+
+
+[2017-12-21 15:07:43,710] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2013-09', 'RANGE': '全部航线', 'VALUE': 106.26}
+
+
+[2017-12-21 15:07:43,711] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:07:44,348] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:07:48,399] INFO in crawler_crude_prices_init:76: 平均值100.552013/10/01
+
+
+[2017-12-21 15:07:48,541] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2013-10', 'RANGE': '全部航线', 'VALUE': 100.55}
+
+
+[2017-12-21 15:07:48,542] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:07:49,152] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:07:52,198] INFO in crawler_crude_prices_init:76: 平均值93.852013/11/01
+
+
+[2017-12-21 15:07:52,333] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2013-11', 'RANGE': '全部航线', 'VALUE': 93.85}
+
+
+[2017-12-21 15:07:52,333] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:07:53,009] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:07:57,044] INFO in crawler_crude_prices_init:76: 平均值97.892013/12/01
+
+
+[2017-12-21 15:07:57,174] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2013-12', 'RANGE': '全部航线', 'VALUE': 97.89}
+
+
+[2017-12-21 15:07:57,174] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:07:57,797] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:08:00,837] INFO in crawler_crude_prices_init:76: 平均值94.982014/01/01
+
+
+[2017-12-21 15:08:01,517] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2014-01', 'RANGE': '全部航线', 'VALUE': 94.98}
+
+
+[2017-12-21 15:08:01,517] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:08:02,155] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:08:06,195] INFO in crawler_crude_prices_init:76: 平均值100.672014/02/01
+
+
+[2017-12-21 15:08:06,383] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2014-02', 'RANGE': '全部航线', 'VALUE': 100.67}
+
+
+[2017-12-21 15:08:06,383] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:08:07,071] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:08:11,109] INFO in crawler_crude_prices_init:76: 平均值100.512014/03/01
+
+
+[2017-12-21 15:08:11,246] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2014-03', 'RANGE': '全部航线', 'VALUE': 100.51}
+
+
+[2017-12-21 15:08:11,247] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:08:11,878] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:08:13,917] INFO in crawler_crude_prices_init:76: 平均值102.032014/04/01
+
+
+[2017-12-21 15:08:14,062] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2014-04', 'RANGE': '全部航线', 'VALUE': 102.03}
+
+
+[2017-12-21 15:08:14,062] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:08:14,686] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:08:18,724] INFO in crawler_crude_prices_init:76: 平均值101.912014/05/01
+
+
+[2017-12-21 15:08:18,860] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2014-05', 'RANGE': '全部航线', 'VALUE': 101.91}
+
+
+[2017-12-21 15:08:18,861] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:08:19,547] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:08:22,587] INFO in crawler_crude_prices_init:76: 平均值105.152014/06/01
+
+
+[2017-12-21 15:08:22,722] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2014-06', 'RANGE': '全部航线', 'VALUE': 105.15}
+
+
+[2017-12-21 15:08:22,723] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:08:23,359] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:08:25,397] INFO in crawler_crude_prices_init:76: 平均值102.452014/07/01
+
+
+[2017-12-21 15:08:25,549] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2014-07', 'RANGE': '全部航线', 'VALUE': 102.45}
+
+
+[2017-12-21 15:08:25,550] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:08:26,166] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:08:29,206] INFO in crawler_crude_prices_init:76: 平均值96.082014/08/01
+
+
+[2017-12-21 15:08:29,406] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2014-08', 'RANGE': '全部航线', 'VALUE': 96.08}
+
+
+[2017-12-21 15:08:29,406] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:08:30,103] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:08:34,149] INFO in crawler_crude_prices_init:76: 平均值93.162014/09/01
+
+
+[2017-12-21 15:08:34,285] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2014-09', 'RANGE': '全部航线', 'VALUE': 93.16}
+
+
+[2017-12-21 15:08:34,285] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:08:34,927] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:08:38,971] INFO in crawler_crude_prices_init:76: 平均值84.342014/10/01
+
+
+[2017-12-21 15:08:39,140] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2014-10', 'RANGE': '全部航线', 'VALUE': 84.34}
+
+
+[2017-12-21 15:08:39,141] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:08:39,770] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:08:42,806] INFO in crawler_crude_prices_init:76: 平均值75.452014/11/01
+
+
+[2017-12-21 15:08:42,945] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2014-11', 'RANGE': '全部航线', 'VALUE': 75.45}
+
+
+[2017-12-21 15:08:42,946] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:08:43,605] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:08:45,647] INFO in crawler_crude_prices_init:76: 平均值59.142014/12/01
+
+
+[2017-12-21 15:08:45,802] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2014-12', 'RANGE': '全部航线', 'VALUE': 59.14}
+
+
+[2017-12-21 15:08:45,802] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:08:46,440] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:08:50,484] INFO in crawler_crude_prices_init:76: 平均值47.732015/01/01
+
+
+[2017-12-21 15:08:50,615] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2015-01', 'RANGE': '全部航线', 'VALUE': 47.73}
+
+
+[2017-12-21 15:08:50,615] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:08:51,209] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:08:54,257] INFO in crawler_crude_prices_init:76: 平均值51.022015/02/01
+
+
+[2017-12-21 15:08:54,422] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2015-02', 'RANGE': '全部航线', 'VALUE': 51.02}
+
+
+[2017-12-21 15:08:54,423] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:08:55,077] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:08:58,126] INFO in crawler_crude_prices_init:76: 平均值47.852015/03/01
+
+
+[2017-12-21 15:08:58,270] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2015-03', 'RANGE': '全部航线', 'VALUE': 47.85}
+
+
+[2017-12-21 15:08:58,271] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:08:58,947] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:09:01,984] INFO in crawler_crude_prices_init:76: 平均值54.382015/04/01
+
+
+[2017-12-21 15:09:02,156] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2015-04', 'RANGE': '全部航线', 'VALUE': 54.38}
+
+
+[2017-12-21 15:09:02,156] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:09:02,778] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:09:06,824] INFO in crawler_crude_prices_init:76: 平均值59.422015/05/01
+
+
+[2017-12-21 15:09:06,960] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2015-05', 'RANGE': '全部航线', 'VALUE': 59.42}
+
+
+[2017-12-21 15:09:06,960] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:09:07,700] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:09:09,746] INFO in crawler_crude_prices_init:76: 平均值59.832015/06/01
+
+
+[2017-12-21 15:09:09,876] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2015-06', 'RANGE': '全部航线', 'VALUE': 59.83}
+
+
+[2017-12-21 15:09:09,877] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:09:10,627] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:09:14,666] INFO in crawler_crude_prices_init:76: 平均值51.132015/07/01
+
+
+[2017-12-21 15:09:14,804] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2015-07', 'RANGE': '全部航线', 'VALUE': 51.13}
+
+
+[2017-12-21 15:09:14,804] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:09:15,509] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:09:19,547] INFO in crawler_crude_prices_init:76: 平均值42.892015/08/01
+
+
+[2017-12-21 15:09:19,693] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2015-08', 'RANGE': '全部航线', 'VALUE': 42.89}
+
+
+[2017-12-21 15:09:19,694] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:09:20,416] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:09:23,458] INFO in crawler_crude_prices_init:76: 平均值45.442015/09/01
+
+
+[2017-12-21 15:09:23,599] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2015-09', 'RANGE': '全部航线', 'VALUE': 45.44}
+
+
+[2017-12-21 15:09:23,600] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:09:24,303] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:09:28,335] INFO in crawler_crude_prices_init:76: 平均值46.292015/10/01
+
+
+[2017-12-21 15:09:28,467] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2015-10', 'RANGE': '全部航线', 'VALUE': 46.29}
+
+
+[2017-12-21 15:09:28,468] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:09:29,152] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:09:33,191] INFO in crawler_crude_prices_init:76: 平均值42.912015/11/01
+
+
+[2017-12-21 15:09:33,335] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2015-11', 'RANGE': '全部航线', 'VALUE': 42.91}
+
+
+[2017-12-21 15:09:33,336] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:09:34,036] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:09:36,082] INFO in crawler_crude_prices_init:76: 平均值37.332015/12/01
+
+
+[2017-12-21 15:09:36,223] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2015-12', 'RANGE': '全部航线', 'VALUE': 37.33}
+
+
+[2017-12-21 15:09:36,223] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:09:36,890] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:09:38,937] INFO in crawler_crude_prices_init:76: 平均值31.602016/01/01
+
+
+[2017-12-21 15:09:39,068] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2016-01', 'RANGE': '全部航线', 'VALUE': 31.6}
+
+
+[2017-12-21 15:09:39,069] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:09:39,775] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:09:42,821] INFO in crawler_crude_prices_init:76: 平均值30.552016/02/01
+
+
+[2017-12-21 15:09:42,971] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2016-02', 'RANGE': '全部航线', 'VALUE': 30.55}
+
+
+[2017-12-21 15:09:42,972] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:09:43,582] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:09:47,628] INFO in crawler_crude_prices_init:76: 平均值37.962016/03/01
+
+
+[2017-12-21 15:09:47,763] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2016-03', 'RANGE': '全部航线', 'VALUE': 37.96}
+
+
+[2017-12-21 15:09:47,764] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:09:48,402] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:09:52,446] INFO in crawler_crude_prices_init:76: 平均值41.122016/04/01
+
+
+[2017-12-21 15:09:52,576] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2016-04', 'RANGE': '全部航线', 'VALUE': 41.12}
+
+
+[2017-12-21 15:09:52,576] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:09:53,197] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:09:55,238] INFO in crawler_crude_prices_init:76: 平均值47.042016/05/01
+
+
+[2017-12-21 15:09:55,380] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2016-05', 'RANGE': '全部航线', 'VALUE': 47.04}
+
+
+[2017-12-21 15:09:55,380] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:09:56,035] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:10:00,074] INFO in crawler_crude_prices_init:76: 平均值48.852016/06/01
+
+
+[2017-12-21 15:10:00,221] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2016-06', 'RANGE': '全部航线', 'VALUE': 48.85}
+
+
+[2017-12-21 15:10:00,222] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:10:00,874] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:10:04,914] INFO in crawler_crude_prices_init:76: 平均值45.172016/07/01
+
+
+[2017-12-21 15:10:05,068] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2016-07', 'RANGE': '全部航线', 'VALUE': 45.17}
+
+
+[2017-12-21 15:10:05,068] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:10:06,026] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:10:09,062] INFO in crawler_crude_prices_init:76: 平均值44.802016/08/01
+
+
+[2017-12-21 15:10:09,200] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2016-08', 'RANGE': '全部航线', 'VALUE': 44.8}
+
+
+[2017-12-21 15:10:09,200] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:10:09,857] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:10:11,899] INFO in crawler_crude_prices_init:76: 平均值45.172016/09/01
+
+
+[2017-12-21 15:10:12,038] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2016-09', 'RANGE': '全部航线', 'VALUE': 45.17}
+
+
+[2017-12-21 15:10:12,039] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:10:12,688] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:10:16,726] INFO in crawler_crude_prices_init:76: 平均值49.942016/10/01
+
+
+[2017-12-21 15:10:16,867] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2016-10', 'RANGE': '全部航线', 'VALUE': 49.94}
+
+
+[2017-12-21 15:10:16,868] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:10:17,514] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:10:20,547] INFO in crawler_crude_prices_init:76: 平均值45.862016/11/01
+
+
+[2017-12-21 15:10:20,737] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2016-11', 'RANGE': '全部航线', 'VALUE': 45.86}
+
+
+[2017-12-21 15:10:20,738] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:10:21,451] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:10:23,491] INFO in crawler_crude_prices_init:76: 平均值52.212016/12/01
+
+
+[2017-12-21 15:10:23,672] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2016-12', 'RANGE': '全部航线', 'VALUE': 52.21}
+
+
+[2017-12-21 15:34:46,000] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:34:46,472] ERROR in util_urllib:116: <urlopen error EOF occurred in violation of protocol (_ssl.c:749)>
+
+
+[2017-12-21 15:34:46,472] ERROR in util_urllib:117: 第1次请求失败：https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:34:49,575] ERROR in util_urllib:116: <urlopen error EOF occurred in violation of protocol (_ssl.c:749)>
+
+
+[2017-12-21 15:34:49,575] ERROR in util_urllib:117: 第2次请求失败：https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:34:52,667] ERROR in util_urllib:116: <urlopen error EOF occurred in violation of protocol (_ssl.c:749)>
+
+
+[2017-12-21 15:34:52,667] ERROR in util_urllib:117: 第3次请求失败：https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:34:55,671] ERROR in crawler_crude_prices_init:59: 'str' object has no attribute 'status'
+
+
+[2017-12-21 15:34:57,672] ERROR in crawler_crude_prices_init:167: 获取数据失败，请检查网络连接
+
+
+[2017-12-21 15:34:57,672] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:34:57,801] ERROR in util_urllib:116: <urlopen error EOF occurred in violation of protocol (_ssl.c:749)>
+
+
+[2017-12-21 15:34:57,802] ERROR in util_urllib:117: 第1次请求失败：https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:35:00,871] ERROR in util_urllib:116: <urlopen error EOF occurred in violation of protocol (_ssl.c:749)>
+
+
+[2017-12-21 15:35:00,871] ERROR in util_urllib:117: 第2次请求失败：https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:35:03,935] ERROR in util_urllib:116: <urlopen error EOF occurred in violation of protocol (_ssl.c:749)>
+
+
+[2017-12-21 15:35:03,935] ERROR in util_urllib:117: 第3次请求失败：https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:35:06,939] ERROR in crawler_crude_prices_init:59: 'str' object has no attribute 'status'
+
+
+[2017-12-21 15:36:13,390] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:36:14,551] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:36:18,595] INFO in crawler_crude_prices_init:76: 平均值52.662017/01/01
+
+
+[2017-12-21 15:36:18,728] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2017-01', 'RANGE': '全部航线', 'VALUE': 52.66}
+
+
+[2017-12-21 15:36:18,729] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:36:19,412] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:36:22,452] INFO in crawler_crude_prices_init:76: 平均值53.502017/02/01
+
+
+[2017-12-21 15:36:22,595] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2017-02', 'RANGE': '全部航线', 'VALUE': 53.5}
+
+
+[2017-12-21 15:36:22,596] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:36:23,264] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:36:27,306] INFO in crawler_crude_prices_init:76: 平均值49.672017/03/01
+
+
+[2017-12-21 15:36:27,443] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2017-03', 'RANGE': '全部航线', 'VALUE': 49.67}
+
+
+[2017-12-21 15:36:27,444] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:36:28,051] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:36:30,067] INFO in crawler_crude_prices_init:76: 平均值51.122017/04/01
+
+
+[2017-12-21 15:36:30,644] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2017-04', 'RANGE': '全部航线', 'VALUE': 51.12}
+
+
+[2017-12-21 15:36:30,645] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:36:31,499] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:36:33,542] INFO in crawler_crude_prices_init:76: 平均值48.662017/05/01
+
+
+[2017-12-21 15:36:33,675] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2017-05', 'RANGE': '全部航线', 'VALUE': 48.66}
+
+
+[2017-12-21 15:36:33,676] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:36:34,322] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:36:36,364] INFO in crawler_crude_prices_init:76: 平均值45.202017/06/01
+
+
+[2017-12-21 15:36:36,491] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2017-06', 'RANGE': '全部航线', 'VALUE': 45.2}
+
+
+[2017-12-21 15:36:36,492] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:36:37,144] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:36:39,192] INFO in crawler_crude_prices_init:76: 平均值46.702017/07/01
+
+
+[2017-12-21 15:36:39,326] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2017-07', 'RANGE': '全部航线', 'VALUE': 46.7}
+
+
+[2017-12-21 15:36:39,327] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:36:39,960] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:36:44,002] INFO in crawler_crude_prices_init:76: 平均值48.062017/08/01
+
+
+[2017-12-21 15:36:44,164] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2017-08', 'RANGE': '全部航线', 'VALUE': 48.06}
+
+
+[2017-12-21 15:36:44,164] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:36:44,831] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:36:48,871] INFO in crawler_crude_prices_init:76: 平均值49.652017/09/01
+
+
+[2017-12-21 15:36:49,476] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2017-09', 'RANGE': '全部航线', 'VALUE': 49.65}
+
+
+[2017-12-21 15:36:49,477] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:36:50,153] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:36:52,194] INFO in crawler_crude_prices_init:76: 平均值51.592017/10/01
+
+
+[2017-12-21 15:36:52,327] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2017-10', 'RANGE': '全部航线', 'VALUE': 51.59}
+
+
+[2017-12-21 15:36:52,327] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:36:52,963] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:36:57,009] INFO in crawler_crude_prices_init:76: 平均值56.742017/11/01
+
+
+[2017-12-21 15:36:57,131] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2017-11', 'RANGE': '全部航线', 'VALUE': 56.74}
+
+
+[2017-12-21 15:36:57,132] INFO in crawler_crude_prices_init:160: 请求url:https://cn.investing.com/instruments/HistoricalDataAjax
+
+
+[2017-12-21 15:36:57,755] INFO in util_urllib:113: 获取https://cn.investing.com/instruments/HistoricalDataAjax内容成功
+
+
+[2017-12-21 15:36:59,787] INFO in crawler_crude_prices_init:76: 平均值57.362017/12/01
+
+
+[2017-12-21 15:36:59,922] INFO in my_cx_oracle:77: insert:{'FID': 7, 'MONTH': '2017-12', 'RANGE': '全部航线', 'VALUE': 57.36}

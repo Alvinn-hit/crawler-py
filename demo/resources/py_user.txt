@@ -1,0 +1,4 @@
+urlopen一般接受三个参数，它的参数如下：
+    urlopen(url, data, timeout)
+    第一个参数url即为URL，第二个参数data是访问URL时要传送的数据，第三个timeout是设置超时时间。
+    第二三个参数是可以不传送的，data默认为空None，timeout默认为 socket._GLOBAL_DEFAULT_TIMEOUT

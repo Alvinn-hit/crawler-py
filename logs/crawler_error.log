@@ -1,0 +1,45 @@
+--------------------------------------------------------------------------------
+[2017-12-21 15:34:46,472] ERROR in util_urllib [F:\develop\eastern\platform\ide\eclipse\workspace\crawler\util_urllib.py:116]:
+ <urlopen error EOF occurred in violation of protocol (_ssl.c:749)>
+--------------------------------------------------------------------------------
+[2017-12-21 15:34:46,472] ERROR in util_urllib [F:\develop\eastern\platform\ide\eclipse\workspace\crawler\util_urllib.py:117]:
+ 第1次请求失败：https://cn.investing.com/instruments/HistoricalDataAjax
+--------------------------------------------------------------------------------
+[2017-12-21 15:34:49,575] ERROR in util_urllib [F:\develop\eastern\platform\ide\eclipse\workspace\crawler\util_urllib.py:116]:
+ <urlopen error EOF occurred in violation of protocol (_ssl.c:749)>
+--------------------------------------------------------------------------------
+[2017-12-21 15:34:49,575] ERROR in util_urllib [F:\develop\eastern\platform\ide\eclipse\workspace\crawler\util_urllib.py:117]:
+ 第2次请求失败：https://cn.investing.com/instruments/HistoricalDataAjax
+--------------------------------------------------------------------------------
+[2017-12-21 15:34:52,667] ERROR in util_urllib [F:\develop\eastern\platform\ide\eclipse\workspace\crawler\util_urllib.py:116]:
+ <urlopen error EOF occurred in violation of protocol (_ssl.c:749)>
+--------------------------------------------------------------------------------
+[2017-12-21 15:34:52,667] ERROR in util_urllib [F:\develop\eastern\platform\ide\eclipse\workspace\crawler\util_urllib.py:117]:
+ 第3次请求失败：https://cn.investing.com/instruments/HistoricalDataAjax
+--------------------------------------------------------------------------------
+[2017-12-21 15:34:55,671] ERROR in crawler_crude_prices_init [F:/develop/eastern/platform/ide/eclipse/workspace/crawler/crawler_crude_prices_init.py:59]:
+ 'str' object has no attribute 'status'
+--------------------------------------------------------------------------------
+[2017-12-21 15:34:57,672] ERROR in crawler_crude_prices_init [F:/develop/eastern/platform/ide/eclipse/workspace/crawler/crawler_crude_prices_init.py:167]:
+ 获取数据失败，请检查网络连接
+--------------------------------------------------------------------------------
+[2017-12-21 15:34:57,801] ERROR in util_urllib [F:\develop\eastern\platform\ide\eclipse\workspace\crawler\util_urllib.py:116]:
+ <urlopen error EOF occurred in violation of protocol (_ssl.c:749)>
+--------------------------------------------------------------------------------
+[2017-12-21 15:34:57,802] ERROR in util_urllib [F:\develop\eastern\platform\ide\eclipse\workspace\crawler\util_urllib.py:117]:
+ 第1次请求失败：https://cn.investing.com/instruments/HistoricalDataAjax
+--------------------------------------------------------------------------------
+[2017-12-21 15:35:00,871] ERROR in util_urllib [F:\develop\eastern\platform\ide\eclipse\workspace\crawler\util_urllib.py:116]:
+ <urlopen error EOF occurred in violation of protocol (_ssl.c:749)>
+--------------------------------------------------------------------------------
+[2017-12-21 15:35:00,871] ERROR in util_urllib [F:\develop\eastern\platform\ide\eclipse\workspace\crawler\util_urllib.py:117]:
+ 第2次请求失败：https://cn.investing.com/instruments/HistoricalDataAjax
+--------------------------------------------------------------------------------
+[2017-12-21 15:35:03,935] ERROR in util_urllib [F:\develop\eastern\platform\ide\eclipse\workspace\crawler\util_urllib.py:116]:
+ <urlopen error EOF occurred in violation of protocol (_ssl.c:749)>
+--------------------------------------------------------------------------------
+[2017-12-21 15:35:03,935] ERROR in util_urllib [F:\develop\eastern\platform\ide\eclipse\workspace\crawler\util_urllib.py:117]:
+ 第3次请求失败：https://cn.investing.com/instruments/HistoricalDataAjax
+--------------------------------------------------------------------------------
+[2017-12-21 15:35:06,939] ERROR in crawler_crude_prices_init [F:/develop/eastern/platform/ide/eclipse/workspace/crawler/crawler_crude_prices_init.py:59]:
+ 'str' object has no attribute 'status'
